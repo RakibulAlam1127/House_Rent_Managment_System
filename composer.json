@@ -1,0 +1,12 @@
+{
+    "name": "rakib/house-rent-managment-system",
+    "authors": [
+        {
+            "name": "Rakibul Alam",
+            "email": "limonrakib05690@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.1"
+    }
+}
