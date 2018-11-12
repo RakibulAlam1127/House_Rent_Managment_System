@@ -55,7 +55,7 @@
 
                        <div class="form-group">
                            <label for="contact">Address</label>
-                           <input type="text" name="address" class="form-control" placeholder="Enter Address" autofocus>
+                           <textarea name="address" id="" cols="15" class="form-control" rows="5" placeholder="Write Your full Address here.."></textarea>
                        </div>
 
                        <div class="form-group">
